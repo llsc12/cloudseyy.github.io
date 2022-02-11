@@ -1,6 +1,7 @@
  .u-section-1 {
   background-image: url("https://raw.githubusercontent.com/Cloudseyy/thecloudfactory/main/images/waves-light.svg");
-  background-position: 49.71% 50%;
+  background-position: 49.41% 50%;
+  background-size: auto 120%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -9,7 +10,7 @@
 
 .u-section-1 .u-text-1 {
   font-family: Roboto, sans-serif;
-  margin: 352px 582px 0 38px;
+  margin: 221px 589px 0 32px;
 }
 
 .u-section-1 .u-group-1 {
@@ -17,7 +18,7 @@
   min-height: 291px;
   height: auto;
   background-image: none;
-  margin: -276px 0 60px auto;
+  margin: -144px 0 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
