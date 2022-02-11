@@ -18,7 +18,7 @@
   min-height: 291px;
   height: auto;
   background-image: none;
-  margin: -144px 0 60px auto;
+  margin: -275px 0 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -136,6 +136,7 @@
   .u-section-1 .u-group-1 {
     min-height: 128px;
     margin-top: 66px;
+    margin-bottom: 60px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
